@@ -1,0 +1,12 @@
+C:\Users\boehm\source\repos\Tripping\Tripping\bin\Debug\netcoreapp3.0\Tripping.exe
+C:\Users\boehm\source\repos\Tripping\Tripping\bin\Debug\netcoreapp3.0\Tripping.deps.json
+C:\Users\boehm\source\repos\Tripping\Tripping\bin\Debug\netcoreapp3.0\Tripping.runtimeconfig.json
+C:\Users\boehm\source\repos\Tripping\Tripping\bin\Debug\netcoreapp3.0\Tripping.runtimeconfig.dev.json
+C:\Users\boehm\source\repos\Tripping\Tripping\bin\Debug\netcoreapp3.0\Tripping.dll
+C:\Users\boehm\source\repos\Tripping\Tripping\bin\Debug\netcoreapp3.0\Tripping.pdb
+C:\Users\boehm\source\repos\Tripping\Tripping\obj\Debug\netcoreapp3.0\Tripping.csprojAssemblyReference.cache
+C:\Users\boehm\source\repos\Tripping\Tripping\obj\Debug\netcoreapp3.0\Tripping.AssemblyInfoInputs.cache
+C:\Users\boehm\source\repos\Tripping\Tripping\obj\Debug\netcoreapp3.0\Tripping.AssemblyInfo.cs
+C:\Users\boehm\source\repos\Tripping\Tripping\obj\Debug\netcoreapp3.0\Tripping.dll
+C:\Users\boehm\source\repos\Tripping\Tripping\obj\Debug\netcoreapp3.0\Tripping.pdb
+C:\Users\boehm\source\repos\Tripping\Tripping\bin\Debug\netcoreapp3.0\Data\users.txt
